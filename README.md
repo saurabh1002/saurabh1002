@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**saurabh1002/saurabh1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Saurabh Gupta.
 
-Here are some ideas to get you started:
+I completed my Bachelors in Electrical Engineering from Veermata Jijabai Technological Institute (VJTI) in 2018. I was a core member of the [Society of Robotics and Automation](https://github.com/orgs/SRA-VJTI/dashboard).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since then I have been working as a Junior Engineer at Centre of Excellence in Complex and Non-linear Dynamical Systems at VJTI.
+
+I will start my Masters in Geodetic Engineering with specialization in Mobile Sensing and Robotics at University of Bonn in Germany from October 2020.
+
+- 💬 Ask me about Robot Manipulator Kinematics, probabilistic robotics, SLAM, Robot Operating System and Eagle CAD.
+- 📫 How to reach me: [saurabh.gupta1002@gmail.com](mailto:saurabh.gupta1002@gmail.com)
+
+
+#### [My Curriculum Vitae](https://github.com/saurabh1002/saurabh1002/blob/master/Curriculum_Vitae.pdf)
