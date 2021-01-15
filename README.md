@@ -6,7 +6,7 @@ I completed my Bachelors in Electrical Engineering from Veermata Jijabai Technol
 
 Since then I have been working as a Junior Engineer at Centre of Excellence in Complex and Non-linear Dynamical Systems at VJTI.
 
-I will start my Masters in Geodetic Engineering with specialization in Mobile Sensing and Robotics at University of Bonn in Germany from October 2020.
+I am currently a Masters student in Geodetic Engineering with specialization in Mobile Sensing and Robotics at University of Bonn in Germany.
 
 - 💬 Ask me about Robot Manipulator Kinematics, probabilistic robotics, SLAM, Robot Operating System and Eagle CAD.
 - 📫 How to reach me: [saurabh.gupta1002@gmail.com](mailto:saurabh.gupta1002@gmail.com)
