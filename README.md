@@ -6,7 +6,7 @@ I completed my Bachelor in Electrical Engineering from Veermata Jijabai Technolo
 
 I finished my Masters in Geodetic Engineering with a major in Mobile Sensing and Robotics from the University of Bonn in October 2023. My master's thesis was titled "3D LiDAR Place Recognition for Autonomous Driving Exploiting Local Density Maps".
 
-I am currently a PhD Scholar at the Institute of Photogrammetry at the University of Bonn under the guidance of Prof. Cyrill Stachniss.
+I am currently a PhD Scholar at the [Institute of Photogrammetry](https://www.ipb.uni-bonn.de/) at the University of Bonn under the guidance of Prof. Cyrill Stachniss.
 
 - 💬 Ask me about 3D LiDAR odometry and mapping, computer vision, 3D LiDAR place recognition, and C++.
 - 📫 How to reach me: [saurabh.gupta1002@gmail.com](mailto:saurabh.gupta1002@gmail.com)
