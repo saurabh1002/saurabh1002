@@ -13,3 +13,4 @@ I am currently a PhD Scholar at the [Institute of Photogrammetry](https://www.ip
 
 
 #### [My Curriculum Vitae](https://github.com/saurabh1002/saurabh1002/blob/master/Curriculum_Vitae.pdf)
+#### [Master Thesis Report](https://github.com/saurabh1002/saurabh1002/blob/master/SaurabhGuptaMasterThesis.pdf)
